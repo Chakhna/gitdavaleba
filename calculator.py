@@ -4,4 +4,4 @@ def calculator(a,b):
     sxvaoba = a-b
     ganayofi = a/b
     print("jamia: ",summary, "namravlia: ",namravli, "sxvaobaa: ", sxvaoba, "ganayofia: ", ganayofi)
-calculator(10,5)
+calculator(4,2)
